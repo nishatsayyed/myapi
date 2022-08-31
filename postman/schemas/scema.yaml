@@ -1,6 +1,6 @@
 openapi: 3.0.0
 info:
-  version: 'v1'
+  version: 'v1.1'
   title: 'My new API title changed'
   license:
     name: MIT
